@@ -89,7 +89,7 @@ KBZ Bank, Monywa Branch 4 — _Jun 2016 – May 2019_
 
 ### 📜 Certifications
 
-- 🎓 Microsoft Azure Administrator [AZ-104] (https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DF3EB837CBC-2D11EF999CE5)
+- 🎓 [Microsoft Azure Administrator AZ-104](https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DF3EB837CBC-2D11EF999CE5)
 - 🐧 Red Hat Certified System Administrator (RHCSA)
 - 🐧 Linux Foundation Certified System Administrator (LFCS)
 - 🔒 Fortinet Certified Associate in Cybersecurity
