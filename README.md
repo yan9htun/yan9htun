@@ -5,7 +5,16 @@
   <a href="mailto:yannaingayehtun@gmail.com">📧 Email</a> |
   <a href="https://github.com/yan9htun" target="_blank">💻 GitHub</a>
 </p>
-
+![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
 ---
 
 ### 👨‍💻 About Me
@@ -83,16 +92,7 @@ I'm an IT Infrastructure Specialist with over **3 years** of hands-on experience
 
 ### 📌 Skills
 
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
+
 
 ---
 
