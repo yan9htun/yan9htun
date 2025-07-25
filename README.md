@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-005C84?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Monitoring-4CAF50?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
@@ -26,15 +29,14 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, and DevOps.
-- 🧰 Passionate about Linux, cloud, Kubernetes, and automation.
-- 💬 Loves helping teams secure, optimize, and automate their environments.
-- 🧪 Side projects include deploying scalable data platforms and open-source ERP systems.
-- 🌱 Currently learning: Advanced Kubernetes, Terraform, and Cloud Security.
+- IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, and DevOps.
+- Passionate about Linux, cloud, Kubernetes, and automation.
+- Loves helping teams secure, optimize, and automate their environments.
+- Currently learning: Advanced Kubernetes, Terraform, and Cloud Security.
 
 ---
 
-### 🧩 Core Skills
+### Core Skills
 
 - **Systems Administration:** Linux (RHEL/CentOS), Windows Server
 - **Virtualization:** VMware vSphere, KVM
@@ -50,7 +52,7 @@
 
 ---
 
-### 🏢 Work Experience
+### Work Experience
 
 **💼 IT Systems Apprentice**  
 AYA Bank PCL — _Jul 2023 – Present_  
@@ -73,22 +75,21 @@ KBZ Bank, Monywa Branch 4 — _Jun 2016 – May 2019_
 ### 📚 Education
 
 - 🎓 **BSc in Computer Science** – *University of the People* (Current)
-- 🎓 **NCC Diploma in Computing with Business Management**
-- 🧾 Passed Myanmar Matriculation Examination (2020)
+- 🎓 **Level 4 NCC Diploma in Computing with Business Management**
 
 ---
 
-### 🧪 Notable Projects
+### Notable Projects
 
 - **e2e Data Platform:** Modern data lake using Apache Airflow, Spark, DBT, and Lightdash.
-- **MinIO & PostgreSQL Deployment:** Secure object and relational storage.
-- **Kubernetes Cluster Setup:** One master and three worker nodes on RHEL VMs.
+- **ERPNext:** Implementation and management of open-source ERP system to streamline business processes.
+- **ELK Stack:** Deployment of Elasticsearch, Logstash, and Kibana for centralized log management and visualization.
 
 ---
 
 ### 📜 Certifications
 
-- 🎓 Microsoft Azure Administrator (AZ-104)
+- 🎓 Microsoft Azure Administrator [AZ-104] (https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DF3EB837CBC-2D11EF999CE5)
 - 🐧 Red Hat Certified System Administrator (RHCSA)
 - 🐧 Linux Foundation Certified System Administrator (LFCS)
 - 🔒 Fortinet Certified Associate in Cybersecurity
