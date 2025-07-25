@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Yannaing Htun 👋</h1>
 <p align="center">
   <strong>IT Infrastructure Specialist | Cloud & DevOps Enthusiast | Linux Advocate</strong><br>
-  <a href="https://linkedin.com/in/yannainghtun" target="_blank">🌐 LinkedIn</a> |
-  <a href="mailto:htun.yannaing@gmail.com">📧 Email</a> |
-  <a href="https://github.com/yannainghtun" target="_blank">💻 GitHub</a>
+  <a href="https://linkedin.com/in/yannaing-ayehtun" target="_blank">🌐 LinkedIn</a> |
+  <a href="mailto:yannaingayehtun@gmail.com">📧 Email</a> |
+  <a href="https://github.com/yan9htun" target="_blank">💻 GitHub</a>
 </p>
 
 ---
@@ -98,9 +98,9 @@ I'm an IT Infrastructure Specialist with over **3 years** of hands-on experience
 
 ### 📫 Let's Connect
 
-- 📧 Email: htun.yannaing@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yannainghtun](https://www.linkedin.com/in/yannainghtun)  
-- 🧑‍💻 GitHub: [github.com/yannainghtun](https://github.com/yannainghtun)
+- 📧 Email: yannaingayehtun@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yannainghtun](https://www.linkedin.com/in/yannaing-ayehtun)  
+- 🧑‍💻 GitHub: [github.com/yannainghtun](https://github.com/yan9htun)
 
 ---
 
