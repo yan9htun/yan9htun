@@ -1,108 +1,110 @@
-<h1 align="center">Hi, I'm Yannaing Htun 👋</h1>
+<h1 align="center">Hi, I'm Yan Naing Htun <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"></h1>
+
 <p align="center">
   <strong>IT Infrastructure Specialist | Cloud & DevOps Enthusiast | Linux Advocate</strong><br>
-  <a href="https://linkedin.com/in/yannaing-ayehtun" target="_blank">🌐 LinkedIn</a> |
-  <a href="mailto:yannaingayehtun@gmail.com">📧 Email</a> |
-  <a href="https://github.com/yan9htun" target="_blank">💻 GitHub</a>
 </p>
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=flat&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-005C84?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-4CAF50?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-I'm an IT Infrastructure Specialist with over **3 years** of hands-on experience in:
-- 🖥️ **System Administration** (Linux/Windows)
-- ☁️ **Cloud Platforms** (Azure)
-- 🐳 **Containerization** (Docker, Kubernetes)
-- 🔐 **Compliance & Security** (PCI DSS, ISO/IEC 27001)
-- 📊 **Monitoring** (ELK Stack, Prometheus)
-- 💾 **Backup Systems** (Dell EMC NetWorker)
-- ⚙️ **Automation & Scripting** (Bash, Python)
+- 🧠 IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, and DevOps.
+- 🧰 Passionate about Linux, cloud, Kubernetes, and automation.
+- 💬 Loves helping teams secure, optimize, and automate their environments.
+- 🧪 Side projects include deploying scalable data platforms and open-source ERP systems.
+- 🌱 Currently learning: Advanced Kubernetes, Terraform, and Cloud Security.
 
 ---
 
-### 💼 Work Experience
+### 🧩 Core Skills
 
-**🎯 IT Systems Apprentice**  
-*AYA Bank PCL | Jul 2023 – Present*  
-- 🛠 Supported critical enterprise banking systems  
-- 👩‍💻 Provided internal user support & system documentation  
-- 🔍 Monitored daily backups and analyzed system logs  
-- ✅ Participated in testing & rollout of systems  
-- 🛡️ Contributed to achieving **PCI DSS** certification  
-
-**🧑‍💼 IT Support Specialist**  
-*PMCC M&E Service Co., Ltd. | Mar 2021 – Jun 2023*  
-- 💬 Provided remote & on-site support  
-- 👨‍🔧 Managed hardware inventory and maintenance  
-- 🔐 Implemented backup/recovery solutions  
-- ⚙️ Set up and maintained user accounts  
-- 🚀 Deployed ERPNext system  
-
-**🏦 Operation Assistant**  
-*KBZ Bank, Monywa Branch 4 | Jun 2016 – May 2019*  
-- 📋 Maintained records and documentation  
-- 🤝 Coordinated with vendors, authorities, and teams  
-- 🧾 Assisted customers and managed inquiries  
+- **Systems Administration:** Linux (RHEL/CentOS), Windows Server
+- **Virtualization:** VMware vSphere, KVM
+- **Cloud:** Azure, MinIO, S3-compatible storage
+- **Containers:** Docker, Kubernetes (K8s)
+- **Automation & CI/CD:** Shell, Ansible, GitHub Actions
+- **Monitoring:** ELK Stack, Prometheus, Grafana
+- **Security:** PCI DSS Compliance, ISO/IEC 27001
+- **Networking:** TCP/IP, VLAN, Firewalls, DNS/DHCP
+- **Databases:** PostgreSQL, MySQL
+- **Backup & Recovery:** Dell EMC NetWorker
+- **Soft Skills:** Problem-solving, Documentation, Team Collaboration
 
 ---
 
-### 🎓 Education
+### 🏢 Work Experience
 
-**Bachelor of Science in Computer Science**  
-*University of the People* — *Ongoing*
+**💼 IT Systems Apprentice**  
+AYA Bank PCL — _Jul 2023 – Present_  
+- Supported enterprise systems with a focus on performance, backup, and compliance.  
+- Assisted in achieving PCI DSS certification.  
+- Participated in deployment and documentation of internal systems.
 
-**Diploma in Computing with Business Management**  
-*NCC Education, UK*  
+**💼 IT Support Specialist**  
+PMCC M&E Service Co., Ltd — _Mar 2021 – Jun 2023_  
+- Managed day-to-day IT support, user access, and backups.  
+- Implemented ERPNext for company-wide operations.  
+- Provided remote troubleshooting and hardware maintenance.
 
----
-
-### 🛠️ Projects
-
-**☁️ e2e Data Platform**  
-- Extracted, loaded, and transformed data from **AdventureWorks**  
-- Tools: Apache Airflow, Apache Spark, MinIO, Trino, DBT, Lightdash
-
-**⚙️ Infrastructure Projects**  
-- Deployed **MinIO** and **PostgreSQL** on RHEL  
-- Built a **Kubernetes Cluster** with 1 master & 3 workers on RHEL
+**💼 Operation Assistant**  
+KBZ Bank, Monywa Branch 4 — _Jun 2016 – May 2019_  
+- Handled customer communications and coordinated with internal teams and authorities.
 
 ---
 
-### 🧾 Certifications
+### 📚 Education
 
-- 🛡️ [ISO/IEC 27001:2022 Information Security Associate](https://example.com)  
-- ☁️ [Microsoft Azure Administrator – AZ-104](https://example.com)  
-- 🐧 [Red Hat Certified System Administrator (RHCSA)](https://example.com)  
-- 🐧 [Linux Foundation Certified System Administrator (LFCS)](https://example.com)  
-- 🔐 [Fortinet Certified Associate in Cybersecurity](https://example.com)  
-- 🧠 [Google AI Essentials](https://example.com)  
-- 📚 [EF SET English Certificate (B2)](https://www.efset.org/cert/xyz)
+- 🎓 **BSc in Computer Science** – *University of the People* (Current)
+- 🎓 **NCC Diploma in Computing with Business Management**
+- 🧾 Passed Myanmar Matriculation Examination (2020)
 
 ---
 
-### 📌 Skills
+### 🧪 Notable Projects
 
-
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: yannaingayehtun@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yannainghtun](https://www.linkedin.com/in/yannaing-ayehtun)  
-- 🧑‍💻 GitHub: [github.com/yannainghtun](https://github.com/yan9htun)
+- **e2e Data Platform:** Modern data lake using Apache Airflow, Spark, DBT, and Lightdash.
+- **MinIO & PostgreSQL Deployment:** Secure object and relational storage.
+- **Kubernetes Cluster Setup:** One master and three worker nodes on RHEL VMs.
 
 ---
 
-_“Always learning. Always building.”_
+### 📜 Certifications
 
+- 🎓 Microsoft Azure Administrator (AZ-104)
+- 🐧 Red Hat Certified System Administrator (RHCSA)
+- 🐧 Linux Foundation Certified System Administrator (LFCS)
+- 🔒 Fortinet Certified Associate in Cybersecurity
+- 🔐 ISO/IEC 27001:2022 Information Security Associate
+- 👨‍🏫 Google AI Essentials
+- 💬 EF SET English (B2 - Upper Intermediate)
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yan-naing-htun/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yannainghtun.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yannainghtun" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> _"Always learning, always building, always sharing."_ 🚀
