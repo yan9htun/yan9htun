@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yan Naing Htun <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <p align="center">
-  <strong>IT Infrastructure Specialist | Cloud & DevOps Enthusiast | Linux Advocate</strong><br>
+  <strong>IT Infrastructure Specialist | Cloud & DevOps Enthusiast | Automation Advocate</strong><br>
 </p>
 
 <p align="center">
