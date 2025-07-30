@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-- IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, and DevOps.
+- IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, containerization, monitoring and DevOps.
 - Passionate about Linux, cloud, Kubernetes, and automation.
 - Loves helping teams secure, optimize, and automate their environments.
 - Currently learning: Advanced Kubernetes, Terraform, and Cloud Security.
