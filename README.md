@@ -74,8 +74,8 @@ KBZ Bank, Monywa Branch 4 — _Jun 2016 – May 2019_
 
 ### 📚 Education
 
-- 🎓 **BSc in Computer Science** – *University of the People* (Current)
-- 🎓 **Level 4 NCC Diploma in Computing with Business Management**
+- 🎓 **BSc in Computer Science** – *University of the People* (In Progress)
+- 🎓 **NCC Diploma in Computing with Business Management(Level 4)**
 
 ---
 
