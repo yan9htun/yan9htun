@@ -54,7 +54,7 @@
 
 ### Work Experience
 
-**💼 IT Systems Apprentice**  
+**💼 IT Infrastructure Specialist**  
 AYA Bank PCL — _Jul 2023 – Present_  
 - Supported enterprise systems with a focus on performance, backup, and compliance.  
 - Assisted in achieving PCI DSS certification.  
