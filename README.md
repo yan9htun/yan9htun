@@ -27,19 +27,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- IT Infrastructure Specialist with 3+ years of experience in system administration, virtualization, containerization, monitoring and DevOps.
-- Passionate about Linux, cloud, Kubernetes, and automation.
-- Loves helping teams secure, optimize, and automate their environments.
-- Currently learning: Advanced Kubernetes, Terraform, and Cloud Security.
-
----
-
-### Core Skills
-
-- **Systems Administration:** Linux (RHEL/CentOS), Windows Server
-- **Virtualization:** VMware vSphere, KVM
 - **Cloud:** Azure, MinIO, S3-compatible storage
 - **Containers:** Docker, Kubernetes (K8s)
 - **Automation & CI/CD:** Shell, Ansible, GitHub Actions
@@ -52,67 +39,30 @@
 
 ---
 
-### Work Experience
-
-**💼 IT Infrastructure Specialist**  
-AYA Bank PCL — _Jul 2023 – Present_  
-- Supported enterprise systems with a focus on performance, backup, and compliance.  
-- Assisted in achieving PCI DSS certification.  
-- Participated in deployment and documentation of internal systems.
-
-**💼 IT Support Specialist**  
-PMCC M&E Service Co., Ltd — _Mar 2021 – Jun 2023_  
-- Managed day-to-day IT support, user access, and backups.  
-- Implemented ERPNext for company-wide operations.  
-- Provided remote troubleshooting and hardware maintenance.
-
-**💼 Operation Assistant**  
-KBZ Bank, Monywa Branch 4 — _Jun 2016 – May 2019_  
-- Handled customer communications and coordinated with internal teams and authorities.
+### 💻 About Me
+* **Systems & DevOps Engineer** with solid hands-on experience scaling high-availability enterprise infrastructure and automating operational workflows.
+* Core competencies include **RHEL Linux** administration, **VMware vSphere** virtualization, enterprise storage systems, and robust **Ansible** automation.
+* Passionate about infrastructure reliability, system hardening, and open-source tooling.
 
 ---
 
-### 📚 Education
-
-- 🎓 **BSc in Computer Science** – *University of the People* (In Progress)
-- 🎓 **NCC Diploma in Computing with Business Management(Level 4)**
-
----
-
-### Notable Projects
-
-- **e2e Data Platform:** Modern data lake using Apache Airflow, Spark, DBT, and Lightdash.
-- **ERPNext:** Implementation and management of open-source ERP system to streamline business processes.
-- **ELK Stack:** Deployment of Elasticsearch, Logstash, and Kibana for centralized log management and visualization.
+### 🛠️ Technical Stack & Tools
+* **Operating Systems:** RHEL 9.6, Enterprise Linux, Ubuntu, Windows Server
+* **Automation & IaC:** Ansible (Playbooks, Roles), Bash / Python Scripting
+* **Virtualization & Containerization:** VMware vSphere (ESXi/vCenter), Docker
+* **Storage & Networking:** Enterprise SAN/NAS (HPE, QSAN, NetApp), SAN Zoning, multipathd, NFS/iSCSI
+* **Observability & Security:** Prometheus, Grafana, System Hardening, PCI DSS Compliance
+* **DevOps & VCS:** Git, GitLab CI/CD, Technical Documentation (MOPs)
 
 ---
 
-### 📜 Certifications
+### 📚 Continuous Learning
+* **B.Sc. in Computer Science** — University of the People (Ongoing)
 
-- 🎓 [Microsoft Azure Administrator AZ-104](https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DF3EB837CBC-2D11EF999CE5)
-- 🐧 [Red Hat Certified System Administrator](https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DFABDBF26CE-2D11EF999CE5)
-- 🐧 [Linux Foundation Certified System Administrator](https://learn.kodekloud.com/user/certificate/2D11FB29F7B3-2DF167F5E17C-2D11EF999CE5)
-- 🔒 [Fortinet Certified Associate in Cybersecurity](https://www.credly.com/badges/c2a39c87-4b9e-431a-9ca6-fcf8065bace0)
-- 🔐 ISO/IEC 27001:2022 Information Security Associate
-- 👨‍🏫 [Google AI Essentials](https://www.credly.com/earner/earned/badge/12f0232b-ce96-468e-8a02-d126195f5036)
-- 💬 [EF SET English B2 - Upper Intermediate](https://cert.efset.org/HfwPQA)
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yannaing-ayehtun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yannaingayehtun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yan9htun" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yan9htun&show_icons=true&theme=radical" alt="Yan Naing Htun's GitHub Stats" />
 </p>
-
----
-
-> _"Always learning, always building, always sharing."_ 🚀
