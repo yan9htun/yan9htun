@@ -45,6 +45,19 @@
 * Passionate about infrastructure reliability, system hardening, and open-source tooling.
 
 ---
+## 💼 Professional Experience
+
+### **Systems Engineer**
+* **ATG Systems | Yangon, Myanmar** *(December 2025 – Present)*
+  * Executed enterprise infrastructure scaling, hardware replacement (Cisco UCS, HPE ProLiant Gen11), and enterprise storage configurations (HPE MSA, QSAN, NetApp).
+  * Administered and hardened RHEL 9.6 environments, firewalld, advanced kernel parameter tuning, and kdump.
+  * Configured SAN zoning, multipathd, iSCSI/NFS shares, and automated tasks using Ansible playbooks.
+
+### **Systems Reliability Engineer (Associate)**
+* **AYA Bank PCL | Yangon, Myanmar** *(July 2023 – November 2025)*
+  * Managed critical enterprise infrastructure and VMware vCenter virtual machines ensuring high availability.
+  * Implemented Prometheus and Grafana monitoring pipelines and enforced PCI DSS security compliance.
+---
 
 ### 🛠️ Technical Stack & Tools
 * **Operating Systems:** RHEL 9.6, Enterprise Linux, Ubuntu, Windows Server
